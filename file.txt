@@ -1,1 +1,2 @@
 This is the first commit in file.txt
+This is the second change in file.txt
